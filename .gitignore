@@ -3,7 +3,12 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+mvnw.cmd
+mvnw
 
+# xml
+pom.xml
+application-prod.yml
 ### STS ###
 .apt_generated
 .classpath
@@ -31,3 +36,4 @@ build/
 
 ### VS Code ###
 .vscode/
+
